@@ -1,4 +1,5 @@
 const mentors = [
+
 	{
 		id: 1,
 		name: "Shashank Srivastava",
@@ -39,6 +40,19 @@ const mentors = [
 	},
 	{
 		id: 4,
+		name: "Om Ghumare",
+		club: "Cultural Club",
+		image:
+			"https://drive.google.com/file/d/1RM6UHRN5VLaQSjUN6Qq0q5ELOKFWyCMk/view?usp=drive_link",
+		gif: "https://tenor.com/view/joey-friends-clothes-how-you-doin-smile-gif-15936068",
+		socials: {
+			linkedin: "https://www.linkedin.com/in/om-ghumare-7420291bb/",
+			instagram: "https://www.instagram.com/_om_ghumare_/",
+			twitter: "https://x.com/GhumareOm",
+		}
+	},
+	{
+		id: 5,
 		name: "Vishal Lokare",
 		club: "Tech Club",
 		image:
@@ -49,7 +63,7 @@ const mentors = [
 		}
 	},
 	{
-		id: 5,
+		id: 6,
 		name: "Rishabh Srivastava",
 		club: "Sponsorship",
 		image:
@@ -61,7 +75,7 @@ const mentors = [
 		}
 	},
 	{
-		id: 6,
+		id: 7,
 		name: "Govind Nair V",
 		club: "Sponsorship",
 		image:
@@ -73,7 +87,7 @@ const mentors = [
 		}
 	},
 	{
-		id: 7,
+		id: 8,
 		name: "Sarthak Bindal",
 		club: "Sponsorship",
 		image: "https://res.cloudinary.com/wtcey4wy/image/upload/v1679853798/apoorv/teams/Sarthak_bindal_edu6xj.jpg",
@@ -85,7 +99,7 @@ const mentors = [
 		}
 	},
 	{
-		id: 8,
+		id: 9,
 		name: "Divyansh Panwar",
 		club: "Cultural Club",
 		image: "https://res.cloudinary.com/dvbzt3j3v/image/upload/v1679651206/WhatsApp_Image_2023-03-23_at_00.07.20_-_Divyansh_Panwar_-IIITK_qnu7su.jpg",
@@ -97,7 +111,7 @@ const mentors = [
 		}
 	},
 	{
-		id: 9,
+		id: 10,
 		name: "Ankur Mandal",
 		club: "Social Club",
 		image: "https://res.cloudinary.com/dpjf6btln/image/upload/v1680006282/WhatsApp_Image_2023-03-24_at_20.36.22_-_ANKUR_KUMAR_MANDAL_-IIITK_uxtzha.png",
@@ -109,7 +123,7 @@ const mentors = [
 		}
 	},
 	{
-		id: 10,
+		id: 11,
 		name: "Prajjwal Jogdand",
 		club: "Social Club",
 		image: "https://res.cloudinary.com/dq1hdtycj/image/upload/v1679651496/prajjwal_-_PRAJJWAL_MAHARUDRA_JOGDAND_-IIITK_joxdmk.png",
@@ -120,7 +134,7 @@ const mentors = [
 		}
 	},
 	{
-		id: 11,
+		id: 12,
 		name: "Shubham Anand",
 		club: "Cultural Club",
 		image: "https://res.cloudinary.com/dpjf6btln/image/upload/v1680006753/IMG_3858-01_-_SHUBHAM_ANAND_jreygj.jpg",
@@ -131,7 +145,7 @@ const mentors = [
 		}
 	},
 	{
-		id: 12,
+		id: 13,
 		name: "Harsh Raj",
 		club: "Trendles Club",
 		image: "https://res.cloudinary.com/wtcey4wy/image/upload/v1680009783/apoorv/teams/harsh_raj_o1mxns.jpg",
@@ -144,6 +158,9 @@ const mentors = [
 
 
 ];
+
+
+
 
 
 const developers = [
